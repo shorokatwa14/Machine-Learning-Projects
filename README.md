@@ -1,1 +1,1 @@
-# GRIP-TSF-DataScience-and-BussinessAnalytics
+# GRIP-TSF-DataScience-and-Bussiness Analytics
