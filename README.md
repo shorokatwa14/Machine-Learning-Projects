@@ -12,9 +12,9 @@ In this project, I built a linear regression model to predict students' scores b
 
 ### 2. Diabetic Prediction
 
-The diabetic prediction project focuses on using classification algorithms to predict whether a patient has diabetes based on several clinical features such as glucose levels, BMI, and age. I applied a classification algorithms such as KNN
+The diabetic prediction project focuses on using classification algorithms to predict whether a patient has diabetes based on several clinical features such as glucose levels, BMI, and age,etc. I applied a classification algorithm such as KNN
 
-### 3. Social Ads Optimization
+### 3. Social_network_ads
 
 One of the most basic data sets to learn and implement some of the most easy and basic algorithms of machine learning is (Logistic Regression) and visualization ,Social Network Ads A categorical dataset to determine whether a user purchased a particular product
 
