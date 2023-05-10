@@ -8,7 +8,7 @@ This section showcases four supervised machine learning projects that I have com
 
 ### 1. Student Score Prediction
 
-In this project, I built a linear regression model to predict students' scores based on several features such as the number of study hours, the difficulty of the subject, and the students' previous academic performance. The project demonstrates my ability to preprocess data, perform exploratory data analysis, and build predictive models using regression algorithms.
+In this project, I built a linear regression model to predict students' scores based on feature such as the number of study hours, The project demonstrates my ability to preprocess data, perform exploratory data analysis, and build predictive models using regression algorithms.
 
 ### 2. Diabetic Prediction
 
