@@ -23,6 +23,10 @@ One of the most basic data sets to learn and implement some of the most easy and
 
 The spam mail prediction project focused on classifying emails as either spam or non-spam. I applied classification algorithm such as Support Vector Machine
 
+### 5. Credit Card Fraud Detection
+It is important that credit card companies are able to recognize fraudulent credit card transactions so that customers are not charged for items that they did not purchase.
+I applied classification algorithm such as Decision Tree
+
 Each project demonstrates my ability to apply machine learning algorithms to real-world problems and effectively communicate my findings through data visualization and presentation.
 ## Unsupervised Machine Learning
 
